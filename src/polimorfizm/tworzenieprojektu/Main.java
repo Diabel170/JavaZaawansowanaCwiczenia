@@ -1,4 +1,4 @@
-package tworzenieprojektu;
+package polimorfizm.tworzenieprojektu;
 
 public class Main {
     public static void main(String[] args) {
